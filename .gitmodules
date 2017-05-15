@@ -1,0 +1,3 @@
+[submodule "library-repo"]
+	path = library-repo
+	url = https://github.com/amiskov/library-repo.git
